@@ -86,11 +86,8 @@
 }
 
 /* Related posts item content */
-
 #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title,
 #jp-relatedposts .jp-relatedposts-items p {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    font-size: 100%;
     line-height: 1.2;
     margin: 0;
 }
